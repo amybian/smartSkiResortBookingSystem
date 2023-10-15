@@ -2,18 +2,18 @@
 
 [North Point Ski Resort Portal Link](https://amyxbian.editorx.io/northpoint)
 
-This is a Ski Resort Business Solution developed for Washington FBLA competition.
-The main business idea is to integrate hotel, ski service, entertainment and environment together to provide 
-solution for our future Ski resort business in the United States.
+This is a Ski Resort Business Solution developed for Washington FBLA's E-Business competition.
+The main business idea is to integrate hotel, ski service, entertainment, and environment together to provide 
+solutions for a fictional ski resort business in the United States.
 # Main Features
-Customers can use this web portal to browse our Imagined NorthPoint ski resort. 
-We presented the beautiful national ski resort.  Customers can learn about the weather 
+Customers can use this web portal to browse our fictional NorthPoint ski resort. 
+We utilized big visuals and an About Me section to showcase the beautiful resort.  Customers can learn about the real-time weather 
 conditions and local surroundings. 
-They can book the rooms, rent the ski equipments.  
-During the stay, customers can book the room services with delicious food.
+They can book the rooms and rent ski equipment.  
+During the stay, customers can order delicious room service food directly to their hotel room through the website.
 #Technology Stack
 In this project, I used editor-x，[Velo API](https://www.wix.com/velo/reference/api-overview/introduction) and 
-Javascript which provides vivid presentation and e-commence support.
+Javascript to provide vivid visuals and e-commerce support for the customer.
 
 ## Overview of Northpoint Ski Resort 
 
