@@ -1,6 +1,6 @@
 # NorthPoint Ski Resort Project
 
-[North Point Ski Resort Portal Link](https://amyxbian.editorx.io/northpoint)
+# [North Point Ski Resort Live Website Link(Click me!)](https://amyxbian.editorx.io/northpoint)
 
 This is a Ski Resort Business Solution developed for Washington FBLA competition.
 The main business idea is to integrate hotel, ski service, entertainment and environment together to provide 
